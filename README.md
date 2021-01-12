@@ -32,5 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bignardi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="bignardi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bignardi&show_icons=true&theme=dracula&locale=en" alt="bignardi" /></p><p><br /></p>
+<br /><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bignardi&show_icons=true&theme=dracula&locale=en" alt="bignardi" /></p><p><br /></p>
 
