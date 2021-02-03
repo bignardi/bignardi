@@ -31,7 +31,7 @@
 </p>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bignardi&show_icons=true&theme=dracula&locale=en" alt="bignardi" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bignardi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="bignardi" />
-</div>  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bignardi&show_icons=true&theme=dracula&locale=en" alt="bignardi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bignardi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="bignardi" />
+</div> 
 
