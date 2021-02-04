@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-bignardi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vinicius-bignardi/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13898866/vinicius-bignardi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/13898866/vinicius-bignardi" height="30" width="40" /></a>
 <a href="https://discord.gg/Vinicius Bignardi®#0611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Vinicius Bignardi®#0611" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/bignardi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/bignardi" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
