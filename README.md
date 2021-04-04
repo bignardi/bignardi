@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Bignardi !!!</h1>
-<h3 align="center">I'm a Java Fullstack developer! I develop both Web, mobile and desktop applications, using the fantastic world of DevOps!</h3>
+<h3 align="center">I'm a Java Fullstack developer! I develop both Web, mobile and desktop applications, using the fantastic world of DevOps! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bignardi&label=Profile%20views&color=9845bf&style=flat" alt="bignardi" /> </p>
 
